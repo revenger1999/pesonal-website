@@ -1,0 +1,119 @@
+body{
+    margin:0px;
+   
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    color: #66BFBF;
+    font-size: 5.625rem;
+    margin: 50px auto 0px auto;
+    font-family: 'Sacramento', cursive;
+    
+
+}
+h2{
+    color: #66BFBF;
+    font-weight: normal;
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+.top-container{
+    background-color: #E4F9F5;
+
+    padding-top: 100px;
+    position:relative;
+}
+.middle-container{
+    margin:50px auto 30px auto;
+   
+
+}
+.bottom-container{
+   padding-top: 50px;
+   padding-bottom: 30px;
+   background-color:#66BFBF;
+}
+.top-cloud{
+    position:absolute;
+    top:50px;
+    right:300px;
+    
+    
+}
+.bottom-cloud{
+    position:absolute;
+    bottom:300px;
+    left:300px;
+}
+a{
+    color: #11999E;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 200px auto;
+    text-align: left;
+    line-height: 2;
+}
+.learner{
+    width:25%;
+    float:right;
+    margin-left: 30px;
+}
+.code-img{
+    width:25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.profile{
+    width:35%;
+    margin:auto;
+}
+.hr-style{
+    border-top:10px gray dotted;
+    width:10%;
+    margin:100px auto 100px auto;
+
+}
+.para{
+    margin:40px auto 100px auto;
+    width:500px;
+}
+ .btn {
+        background: #3498db;
+        background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+        background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+        background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+        background-image: -o-linear-gradient(top, #3498db, #2980b9);
+        background-image: linear-gradient(to bottom, #3498db, #2980b9);
+        -webkit-border-radius: 10;
+        -moz-border-radius: 10;
+        border-radius: 10px;
+        font-family:  'Montserrat', sans-serif;
+        color: #ffffff;
+        font-size: 20px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+      }
+
+.copyright{
+    color: #EAF6F6;
+    margin: 50px auto 0px auto;
+    font-size: 0.75rem;
+}
+.footer-link{
+    padding:30px;
+
+}
+.skills{
+    margin-bottom: 100px;
+}
+a:hover{
+    color: #EAF6F6;
+}
